@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-fg);
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection {
+    background-color: var(--color-accent);
+    color: #000;
+  }
+}
+
+@layer utilities {
+  .bg-gradient-hero {
+    background:
+      radial-gradient(1200px 600px at 85% -10%, color-mix(in srgb, var(--color-primary) 35%, transparent), transparent 60%),
+      radial-gradient(900px 500px at -10% 10%, color-mix(in srgb, var(--color-primary-dark) 40%, transparent), transparent 60%),
+      linear-gradient(180deg, var(--color-bg) 0%, var(--color-surface) 100%);
+  }
+  .bg-gradient-emergency {
+    background: linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 100%);
+  }
+  .ring-primary-glow {
+    box-shadow: 0 0 0 4px color-mix(in srgb, var(--color-accent) 25%, transparent);
+  }
+  .text-balance { text-wrap: balance; }
+}

@@ -1,0 +1,224 @@
+{
+  "business": {
+    "name": "EZ Miami Plumbing",
+    "shortName": "EZ Miami",
+    "tagline": "Miami's Trusted Plumber",
+    "phone": "645-214-2222",
+    "phoneHref": "tel:+16452142222",
+    "email": "ezangelsplumbing@gmail.com",
+    "city": "Miami",
+    "state": "FL",
+    "serviceArea": "Miami-Dade & parts of Broward County",
+    "yearsExperience": 10,
+    "rating": 4.9,
+    "reviewCount": 127,
+    "licenseText": "Licensed & Insured",
+    "hours": "Open 24/7 for emergencies"
+  },
+  "theme": {
+    "primary": "#1D5FD1",
+    "primaryDark": "#0B3B9A",
+    "accent": "#F5A524",
+    "accentDark": "#D18910",
+    "background": "#0A1628",
+    "surface": "#0F2340",
+    "surface2": "#152C50",
+    "foreground": "#FFFFFF",
+    "muted": "#A8B8D1",
+    "success": "#10B981",
+    "border": "#1E3560"
+  },
+  "nav": {
+    "links": [
+      { "label": "Services", "href": "#services" },
+      { "label": "Why Us", "href": "#why-us" },
+      { "label": "Reviews", "href": "#reviews" },
+      { "label": "Service Area", "href": "#service-area" }
+    ],
+    "ctaLabel": "Call Now"
+  },
+  "hero": {
+    "eyebrow": "Miami-Dade & Broward — Open 24/7",
+    "headline": "Miami's Trusted Plumber. Same-Day Service, Upfront Pricing.",
+    "subheadline": "Licensed, insured, and on call 24/7. Free estimates and flat per-job pricing — no hourly surprises, no upsells, just the fix.",
+    "primaryCta": { "label": "Call 645-214-2222", "type": "call" },
+    "secondaryCta": { "label": "Get a Free Estimate", "type": "quote" },
+    "ratingText": "4.9 stars · 127+ local reviews",
+    "badges": [
+      "Licensed & Insured",
+      "10+ Years in Miami",
+      "Free Estimates",
+      "Per-Job Pricing"
+    ]
+  },
+  "trustBar": [
+    { "icon": "clock", "label": "24/7 Emergency Service" },
+    { "icon": "shield", "label": "Licensed & Insured" },
+    { "icon": "dollar", "label": "Upfront Per-Job Pricing" },
+    { "icon": "check", "label": "Free Estimates" },
+    { "icon": "star", "label": "4.9★ on Google" }
+  ],
+  "services": {
+    "heading": "Plumbing Services We Handle Today",
+    "subheading": "From a slow drain to a flooded kitchen — we show up, diagnose, and quote the job before we start.",
+    "items": [
+      {
+        "icon": "drop",
+        "title": "Leak Detection & Repair",
+        "desc": "Hidden leaks behind walls, under slabs, at fixtures. Found and fixed without tearing up your house.",
+        "cta": "Stop the Leak"
+      },
+      {
+        "icon": "drain",
+        "title": "Drain Cleaning & Clogs",
+        "desc": "Kitchen, shower, toilet, main line. We clear it fast — no harsh chemicals, no guesswork.",
+        "cta": "Clear My Drain"
+      },
+      {
+        "icon": "heater",
+        "title": "Water Heater Install & Repair",
+        "desc": "Tank, tankless, gas or electric. Same-day replacement available across Miami-Dade.",
+        "cta": "Fix Hot Water"
+      },
+      {
+        "icon": "alert",
+        "title": "Emergency Plumbing",
+        "desc": "Burst pipe, overflowing toilet, no water. We answer 24/7 and roll out fast.",
+        "cta": "Get Help Now"
+      },
+      {
+        "icon": "pipe",
+        "title": "Re-piping & Water Lines",
+        "desc": "Old galvanized or failing copper? We re-pipe homes cleanly with minimal drywall cuts.",
+        "cta": "Ask About Re-piping"
+      },
+      {
+        "icon": "faucet",
+        "title": "Faucets, Fixtures & Disposals",
+        "desc": "Faucet swaps, shower valves, garbage disposals, toilets — installed right the first time.",
+        "cta": "Book an Install"
+      }
+    ]
+  },
+  "whyUs": {
+    "heading": "Why Miami Homeowners Call Us First",
+    "items": [
+      {
+        "icon": "dollar",
+        "title": "Flat Per-Job Pricing",
+        "desc": "You get the full price before we start. No clock, no surprise line items on the invoice."
+      },
+      {
+        "icon": "bolt",
+        "title": "Same-Day Service",
+        "desc": "Most calls get a plumber the same day. Emergencies get priority, any hour."
+      },
+      {
+        "icon": "shield",
+        "title": "Licensed Local Plumbers",
+        "desc": "Fully licensed and insured. Real plumbers who know Miami homes, not subcontractors."
+      },
+      {
+        "icon": "heart",
+        "title": "Family-Owned, 10+ Years",
+        "desc": "A small local team. We answer our own phone and we stand behind every job."
+      }
+    ]
+  },
+  "reviews": {
+    "heading": "What Miami Neighbors Are Saying",
+    "subheading": "Real reviews from homeowners across Miami-Dade.",
+    "items": [
+      {
+        "name": "Maria R.",
+        "location": "Coral Gables, FL",
+        "rating": 5,
+        "quote": "Called at 9pm with water all over the kitchen floor. They picked up, gave me a flat price on the phone, and had it fixed before midnight. Fair and straightforward."
+      },
+      {
+        "name": "David T.",
+        "location": "Kendall, FL",
+        "rating": 5,
+        "quote": "Got three quotes for a water heater replacement. EZ Miami was the only one who didn't try to upsell me. Installed same day, cleaned up, and it's been running for a year."
+      },
+      {
+        "name": "Jasmine P.",
+        "location": "Hialeah, FL",
+        "rating": 5,
+        "quote": "Thought I had a simple clog — turned out to be a main line issue. They explained everything, showed me the camera footage, and fixed it for the price they quoted."
+      }
+    ]
+  },
+  "emergency": {
+    "eyebrow": "24/7 Emergency Plumbing",
+    "headline": "Water won't stop? We will.",
+    "subheadline": "Burst pipe, overflowing toilet, no hot water at 2am — we answer in under 60 seconds, every day of the year.",
+    "ctaLabel": "Call Now — We Answer Live"
+  },
+  "serviceArea": {
+    "heading": "Serving Miami-Dade & Broward",
+    "subheading": "If you're nearby, we can help — usually same day.",
+    "neighborhoods": [
+      "Miami",
+      "Coral Gables",
+      "Kendall",
+      "Hialeah",
+      "Miami Beach",
+      "Doral",
+      "Homestead",
+      "Aventura",
+      "North Miami",
+      "Pinecrest",
+      "Cutler Bay",
+      "Hollywood",
+      "Pembroke Pines",
+      "Miramar"
+    ],
+    "location": {
+      "label": "Based in Coral Gables, FL",
+      "address": "4028 SW 11th St, Coral Gables, FL 33134",
+      "mapQuery": "4028 SW 11th St, Coral Gables, FL 33134, United States",
+      "zoom": 15,
+      "directionsLabel": "Get Directions"
+    }
+  },
+  "process": {
+    "heading": "How It Works",
+    "subheading": "Three steps. No runaround.",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Call or Text",
+        "desc": "Tell us what's going on — or send a photo. We'll tell you roughly what it costs before we come out."
+      },
+      {
+        "step": 2,
+        "title": "Free On-Site Diagnosis",
+        "desc": "We show up on time, diagnose the issue, and give you a flat per-job price. No pressure."
+      },
+      {
+        "step": 3,
+        "title": "Fixed & Guaranteed",
+        "desc": "We do the work for the quoted price and back it with our workmanship guarantee."
+      }
+    ]
+  },
+  "finalCta": {
+    "eyebrow": "Ready when you are",
+    "headline": "Skip the hassle. One call and it's handled.",
+    "subheadline": "Free estimates. Flat pricing. Real Miami plumbers answering the phone right now.",
+    "primaryCta": { "label": "Call 645-214-2222", "type": "call" },
+    "secondaryCta": { "label": "Email Us", "type": "email" }
+  },
+  "ctaVariations": [
+    "Call 645-214-2222",
+    "Get My Free Estimate",
+    "Talk to a Plumber Now",
+    "Send Us a Photo for a Quote",
+    "Book Same-Day Service"
+  ],
+  "footer": {
+    "note": "Family-owned and operated in Miami. Licensed & insured plumbing contractor serving Miami-Dade and Broward County.",
+    "rightsTemplate": "© {year} {name}. All rights reserved."
+  }
+}
