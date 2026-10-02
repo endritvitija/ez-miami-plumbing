@@ -1,6 +1,6 @@
-# EZ Miami Plumbing — Conversion-Focused Homepage
+# Thameside Plumbing — Conversion-Focused Homepage
 
-A mobile-first, high-converting homepage template for local home-services businesses (currently configured for **EZ Miami Plumbing**). All copy, business info, and theme colors are driven from a single `content.json`, so you can reskin it for any client by editing one file.
+A mobile-first, high-converting homepage template for local home-services businesses (currently configured with dummy **Thameside Plumbing** copy for London). All copy, business info, and theme colors are driven from a single `content.json`, so you can reskin it for any client by editing one file.
 
 Built with Next.js 14 (App Router), TypeScript, and Tailwind CSS. The page is fully statically rendered for fast LCP.
 
@@ -20,12 +20,12 @@ All client-specific content lives in [`content.json`](./content.json). Edit it a
 
 ```json
 "business": {
-  "name": "EZ Miami Plumbing",
-  "phone": "645-214-2222",
-  "phoneHref": "tel:+16452142222",
-  "email": "ezangelsplumbing@gmail.com",
-  "city": "Miami",
-  "serviceArea": "Miami-Dade & parts of Broward County",
+  "name": "Thameside Plumbing",
+  "phone": "020 7946 0958",
+  "phoneHref": "tel:+442079460958",
+  "email": "hello@thamesideplumbing.example",
+  "city": "London",
+  "serviceArea": "North & Central London",
   "yearsExperience": 10,
   "rating": 4.9,
   "reviewCount": 127

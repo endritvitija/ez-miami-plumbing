@@ -1,14 +1,14 @@
 {
   "business": {
-    "name": "EZ Miami Plumbing",
-    "shortName": "EZ Miami",
-    "tagline": "Miami's Trusted Plumber",
-    "phone": "645-214-2222",
-    "phoneHref": "tel:+16452142222",
-    "email": "ezangelsplumbing@gmail.com",
-    "city": "Miami",
-    "state": "FL",
-    "serviceArea": "Miami-Dade & parts of Broward County",
+    "name": "Thameside Plumbing",
+    "shortName": "Thameside",
+    "tagline": "London's Trusted Plumber",
+    "phone": "020 7946 0958",
+    "phoneHref": "tel:+442079460958",
+    "email": "hello@thamesideplumbing.example",
+    "city": "London",
+    "state": "England",
+    "serviceArea": "North & Central London",
     "yearsExperience": 10,
     "rating": 4.9,
     "reviewCount": 127,
@@ -38,15 +38,15 @@
     "ctaLabel": "Call Now"
   },
   "hero": {
-    "eyebrow": "Miami-Dade & Broward — Open 24/7",
-    "headline": "Miami's Trusted Plumber. Same-Day Service, Upfront Pricing.",
+    "eyebrow": "North & Central London — Open 24/7",
+    "headline": "London's Trusted Plumber. Same-Day Service, Upfront Pricing.",
     "subheadline": "Licensed, insured, and on call 24/7. Free estimates and flat per-job pricing — no hourly surprises, no upsells, just the fix.",
-    "primaryCta": { "label": "Call 645-214-2222", "type": "call" },
+    "primaryCta": { "label": "Call 020 7946 0958", "type": "call" },
     "secondaryCta": { "label": "Get a Free Estimate", "type": "quote" },
     "ratingText": "4.9 stars · 127+ local reviews",
     "badges": [
       "Licensed & Insured",
-      "10+ Years in Miami",
+      "10+ Years in London",
       "Free Estimates",
       "Per-Job Pricing"
     ]
@@ -77,7 +77,7 @@
       {
         "icon": "heater",
         "title": "Water Heater Install & Repair",
-        "desc": "Tank, tankless, gas or electric. Same-day replacement available across Miami-Dade.",
+        "desc": "Tank, tankless, gas or electric. Same-day replacement available across North London.",
         "cta": "Fix Hot Water"
       },
       {
@@ -101,7 +101,7 @@
     ]
   },
   "whyUs": {
-    "heading": "Why Miami Homeowners Call Us First",
+    "heading": "Why London Homeowners Call Us First",
     "items": [
       {
         "icon": "dollar",
@@ -116,7 +116,7 @@
       {
         "icon": "shield",
         "title": "Licensed Local Plumbers",
-        "desc": "Fully licensed and insured. Real plumbers who know Miami homes, not subcontractors."
+        "desc": "Fully licensed and insured. Real plumbers who know London homes, not subcontractors."
       },
       {
         "icon": "heart",
@@ -126,24 +126,24 @@
     ]
   },
   "reviews": {
-    "heading": "What Miami Neighbors Are Saying",
-    "subheading": "Real reviews from homeowners across Miami-Dade.",
+    "heading": "What London Neighbours Are Saying",
+    "subheading": "Sample reviews from homeowners across North London.",
     "items": [
       {
-        "name": "Maria R.",
-        "location": "Coral Gables, FL",
+        "name": "Amelia R.",
+        "location": "Islington, London",
         "rating": 5,
         "quote": "Called at 9pm with water all over the kitchen floor. They picked up, gave me a flat price on the phone, and had it fixed before midnight. Fair and straightforward."
       },
       {
-        "name": "David T.",
-        "location": "Kendall, FL",
+        "name": "James T.",
+        "location": "Camden, London",
         "rating": 5,
-        "quote": "Got three quotes for a water heater replacement. EZ Miami was the only one who didn't try to upsell me. Installed same day, cleaned up, and it's been running for a year."
+        "quote": "Got three quotes for a water heater replacement. Thameside was the only one who didn't try to upsell me. Installed same day, cleaned up, and it's been running for a year."
       },
       {
-        "name": "Jasmine P.",
-        "location": "Hialeah, FL",
+        "name": "Priya P.",
+        "location": "Hackney, London",
         "rating": 5,
         "quote": "Thought I had a simple clog — turned out to be a main line issue. They explained everything, showed me the camera footage, and fixed it for the price they quoted."
       }
@@ -156,29 +156,29 @@
     "ctaLabel": "Call Now — We Answer Live"
   },
   "serviceArea": {
-    "heading": "Serving Miami-Dade & Broward",
+    "heading": "Serving North & Central London",
     "subheading": "If you're nearby, we can help — usually same day.",
     "neighborhoods": [
-      "Miami",
-      "Coral Gables",
-      "Kendall",
-      "Hialeah",
-      "Miami Beach",
-      "Doral",
-      "Homestead",
-      "Aventura",
-      "North Miami",
-      "Pinecrest",
-      "Cutler Bay",
-      "Hollywood",
-      "Pembroke Pines",
-      "Miramar"
+      "Islington",
+      "Camden",
+      "Hackney",
+      "Hampstead",
+      "Highbury",
+      "Kentish Town",
+      "Clerkenwell",
+      "Angel",
+      "Holloway",
+      "Dalston",
+      "Stoke Newington",
+      "Hoxton",
+      "Finsbury Park",
+      "Shoreditch"
     ],
     "location": {
-      "label": "Based in Coral Gables, FL",
-      "address": "4028 SW 11th St, Coral Gables, FL 33134",
-      "mapQuery": "4028 SW 11th St, Coral Gables, FL 33134, United States",
-      "zoom": 15,
+      "label": "Based in Islington, London",
+      "address": "12 Example Street, Islington, London N1 0AA",
+      "mapQuery": "Islington, London, United Kingdom",
+      "zoom": 13,
       "directionsLabel": "Get Directions"
     }
   },
@@ -206,19 +206,19 @@
   "finalCta": {
     "eyebrow": "Ready when you are",
     "headline": "Skip the hassle. One call and it's handled.",
-    "subheadline": "Free estimates. Flat pricing. Real Miami plumbers answering the phone right now.",
-    "primaryCta": { "label": "Call 645-214-2222", "type": "call" },
+    "subheadline": "Free estimates. Flat pricing. Real London plumbers answering the phone right now.",
+    "primaryCta": { "label": "Call 020 7946 0958", "type": "call" },
     "secondaryCta": { "label": "Email Us", "type": "email" }
   },
   "ctaVariations": [
-    "Call 645-214-2222",
+    "Call 020 7946 0958",
     "Get My Free Estimate",
     "Talk to a Plumber Now",
     "Send Us a Photo for a Quote",
     "Book Same-Day Service"
   ],
   "footer": {
-    "note": "Family-owned and operated in Miami. Licensed & insured plumbing contractor serving Miami-Dade and Broward County.",
+    "note": "Family-owned and operated in London. Licensed & insured plumbing contractor serving North and Central London.",
     "rightsTemplate": "© {year} {name}. All rights reserved."
   }
 }
